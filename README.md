@@ -26,7 +26,7 @@ to your ```composer.json``` and invoke ```composer update``` in your project.
 
 If you can satisfy the requirements it is very simple to use the webserver. Just do this:
 ```bash
-git clone https://github.com/appserver-io/webserver
+git clone https://github.com/Tiger66639/webserver
 cd webserver
 PHP_BIN=/path/to/your/threadsafe/php-binary bin/webserver
 ```
